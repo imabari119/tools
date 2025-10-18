@@ -85,8 +85,8 @@ df4["time"] = "09:00～17:00"
 
 df = (
     pd.concat([df1, df2, df3, df4], ignore_index=True)
-    .reindex(columns=["date", "medical", "name", "time"])
     .sort_values(["date", "type"])
+    .reindex(columns=["date", "medical", "name", "time"])
 )
 
 df = df[df["date"].isin(dates)].reset_index(drop=True)
