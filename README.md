@@ -15,7 +15,7 @@
 | 9      | 島しょ部       | 指定なし   |
 
 # 共通
-1. "救急病院データ作成2026.xlsx"をダウンロード
+1. "救急病院データ作成2026.xlsx"を[ダウンロード](https://github.com/imabari119/tools/raw/refs/heads/main/%E6%95%91%E6%80%A5%E7%97%85%E9%99%A2%E3%83%87%E3%83%BC%E3%82%BF%E4%BD%9C%E6%88%902026.xlsx)
 2. 祝日を取得ため外部アクセスを許可にする [内閣府　国民の祝日](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)からCSVを取得している
 
 https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
