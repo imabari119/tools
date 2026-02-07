@@ -16,7 +16,9 @@
 
 # 共通
 1. "救急病院データ作成2026.xlsx"をダウンロード
-2. 祝日を取得ため外部アクセスを許可にする https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csvから祝日を取得している
+2. 祝日を取得ため外部アクセスを許可にする [内閣府　国民の祝日](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)からCSVを取得している
+
+https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 
 # 「救急」「特別」シートの入力手順
 1. 「救急」のシートの基準日（月初めの1日）を指定
